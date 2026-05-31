@@ -28,7 +28,7 @@ The goal was to handle missing values, fix data types, and prepare the dataset f
 - Python
 - Pandas
 - VS Code
-- Git
+- GitHub
 
 ---
 
@@ -48,6 +48,6 @@ The goal was to handle missing values, fix data types, and prepare the dataset f
 ---
 
 ## Author
-**Tushar**
+**Tushar Biswas**
 - [LinkedIn](https://www.linkedin.com/in/tushar-biswas03/)
 - [GitHub](https://github.com/Tushar068)
